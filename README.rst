@@ -102,8 +102,9 @@ A few points worth noting about ``xmppdump`` usage:
 
 How to Build ``xmppdump``
 =========================
+::
 
-g++ xmppdump.cpp xmlpp.cpp -lpcap -o xmppdump
+    g++ xmppdump.cpp xmlpp.cpp -lpcap -o xmppdump
 
 .. vim:set syntax=rest:
 
