@@ -1,3 +1,8 @@
+/**
+ * (c) Copyright 2015 Andrew Biggs
+ * This code is available under the Apache License, version 2: http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
 #include <arpa/inet.h>
 
 #define ETHER_PKT_TYPE_RECV_UCAST    0x0000 
